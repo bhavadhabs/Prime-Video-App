@@ -1,5 +1,3 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # Prime Video App
 Prime Video App Clone built with React Native that replicates key features of the Amazon Prime Video platform, such as user authentication, profile management, and movie streaming.
 
