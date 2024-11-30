@@ -108,18 +108,23 @@ Smooth Animations:
 High-performance animations with React Reanimated for transitions and UI effects, ensuring a fluid user experience.
 
 # Screenshots
-Log-in
+# Log-in
 ![Login](https://github.com/user-attachments/assets/7b0c2f86-346e-4afb-80a9-cc1e65faad44)
-Create Account (Log-in)
+
+# Create Account (Log-in)
 ![Create Account Log-in](https://github.com/user-attachments/assets/d64b223d-acb0-4b0d-bf9b-d0972ed96358)
-Profiles
+
+# Profiles
 ![Profiles](https://github.com/user-attachments/assets/707ca144-3672-45bb-9a4a-0c2e9559b2d3)
-Learn More Deails
+
+# Learn More Deails
 ![Learn More details](https://github.com/user-attachments/assets/61ad3921-8907-444b-8da2-648026928324)
-Prime Page
+
+# Prime Page
 ![Prime Video](https://github.com/user-attachments/assets/67f8c3d1-7e35-47fd-b1b2-b1db66c964b4)
 ![Prime 2](https://github.com/user-attachments/assets/93cf409f-f52d-44a6-95ae-3e0d75064b3e)
-Modals of the Genres
+
+# Modals of the Genres
 ![1](https://github.com/user-attachments/assets/641306bd-b20b-431e-88c2-6846ba0170a9)
 ![2](https://github.com/user-attachments/assets/720b3955-9669-4404-a884-2e88fc12b525)
 ![3](https://github.com/user-attachments/assets/9ecff3b0-e63b-4aa0-b5c7-988cfe81b816)
